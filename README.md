@@ -44,6 +44,3 @@ between the number of sent and received messages in the running period.
 • Show also graphs for the high and low priority sender tasks.
 Use a queue of size 3, then repeat for a queue of size 10. What happens when queue size increases?
 
-Embedded Systems Project 2023 Page 3 of 2 Revision: 1.0
-You need to think of how to generate random numbers efficiently or if you will use C run-time library for the
-rand function for example.
